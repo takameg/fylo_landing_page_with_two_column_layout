@@ -298,9 +298,6 @@ footer a  {
   padding: 20px 0;
 }
 
-footer {
-  
-}
 
 @media screen and (min-width: 960px) {
   body {
@@ -488,14 +485,22 @@ footer {
     margin-top: 100px;
   }
 
+  footer ul {
+    margin-top: 10px;
+  }
+
   .footer-wrapper {
-    margin: 20px 260px 0 80px;
+    margin: 10px 260px 0 80px;
     justify-content: space-between;
     align-items: flex-start;
   }
 
   .contact {
     margin: 0; 
+  }
+
+  .sns .flex {
+    margin-top: 20px;
   }
 
 }
