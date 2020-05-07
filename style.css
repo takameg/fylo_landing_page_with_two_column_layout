@@ -27,7 +27,7 @@ header {
   padding: 13px 25px;
   justify-content: space-between;
   align-items: center;
-  margin-bottom: 70px;
+  margin-bottom: 50px;
 }
 
 header img {
@@ -440,7 +440,7 @@ footer {
   }
 
   .register {
-    padding: 100px 80px;
+    padding: 100px 80px 60px 80px;
   }
 
   .guide {
